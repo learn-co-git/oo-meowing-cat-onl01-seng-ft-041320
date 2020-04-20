@@ -8,4 +8,4 @@ class Cat
 end
 
  Cat.new()
-puts neil.name
+
